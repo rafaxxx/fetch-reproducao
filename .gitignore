@@ -1,0 +1,22 @@
+# Dados (muito grandes para o GitHub — baixar conforme data/README_data.md)
+*.hdf5
+*.h5
+*.fil
+*.tgz
+
+# Resultados individuais por candidato (apenas resumo_metricas.csv é versionado)
+results/results_*.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.eggs/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Ambientes
+.env
+venv/
