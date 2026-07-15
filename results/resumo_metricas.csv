@@ -1,0 +1,2 @@
+modelo,acuracia,recall,precisao,f1_score,threshold,tempo_s
+a,0.9856,0.9731,0.9965,0.9847,0.5,

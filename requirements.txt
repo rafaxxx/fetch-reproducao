@@ -1,0 +1,19 @@
+# Dependências para reprodução do experimento FETCH
+# Testado em Google Colab (Python 3.12, TensorFlow 2.20, GPU Tesla T4)
+#
+# Instalação:
+#   pip install -r requirements.txt
+#
+# IMPORTANTE: defina TF_USE_LEGACY_KERAS=1 antes de importar tensorflow
+
+tf_keras>=2.15.0
+scikit-learn>=1.3.0
+h5py>=3.9.0
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# FETCH instalado separadamente via:
+#   git clone -b tf2 https://github.com/devanshkv/fetch.git
+#   cd fetch && python setup.py install
