@@ -116,9 +116,9 @@ Ver `docs/desvios_protocolo.md` para descrição completa. Resumo:
 
 | Artefato | Plataforma | Link |
 |---|---|---|
-| Código-fonte | GitHub | [LINK_GITHUB] |
-| Notebook + resultados | Zenodo | [LINK_ZENODO] (DOI: [DOI_ZENODO]) |
-| Artigo | Zenodo | [LINK_ZENODO] (DOI: [DOI_ZENODO]) |
+| Código-fonte | GitHub | https://github.com/rafaxxx/fetch-reproducao |
+| Notebook + resultados | Zenodo | https://zenodo.org/records/21385263 (DOI: 10.5281/zenodo.21385263 |
+| Artigo | Zenodo | https://zenodo.org/records/21385263 (DOI: 10.5281/zenodo.21385263 |
 
 ---
 
